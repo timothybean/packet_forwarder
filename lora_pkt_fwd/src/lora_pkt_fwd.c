@@ -1042,7 +1042,7 @@ int main(void)
     float dw_ack_ratio;
 
     /* display version informations */
-    MSG("*** Beacon Packet Forwarder for Lora Gateway ***\nVersion: " VERSION_STRING "\n");
+    MSG("*** Beacon Packet Forwarder for Nora Networks Lora Gateway ***\nVersion: " VERSION_STRING "\n");
     MSG("*** Lora concentrator HAL library version info ***\n%s\n***\n", lgw_version_info());
 
     /* display host endianness */
